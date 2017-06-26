@@ -1,4 +1,3 @@
-#!/home/ec2-user/anaconda3/bin/python3
 import sys
 import traceback
 from twython import Twython, TwythonError
